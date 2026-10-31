@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>FitMap · Compatibilité d'accessoires</title>
+<meta name="description" content="Quels accessoires de téléphone vont sur quel autre téléphone, selon les utilisateurs.">
+<meta name="theme-color" content="#0f172a">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="stylesheet" href="style.css">
+<link rel="preload" href="data.json" as="fetch" crossorigin>
+</head>
+<body>
+<a class="skip" href="#main" data-i18n="skip">Aller au contenu</a>
+<header class="top">
+  <a class="brand" href="#/" aria-label="FitMap">
+    <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><rect x="5" y="2" width="16" height="28" rx="4" fill="none" stroke="currentColor" stroke-width="2.5"/><rect x="11" y="6" width="16" height="24" rx="4" fill="currentColor" opacity=".35"/></svg>
+    <span>FitMap</span>
+  </a>
+  <nav class="modes" aria-label="Mode">
+    <a href="#/" data-mode="phone" data-i18n="modePhone">Téléphone client</a>
+    <a href="#/stock" data-mode="stock" data-i18n="modeStock">Accessoire</a>
+    <a href="#/grid" data-mode="grid" data-i18n="modeGrid">Tableau</a>
+  </nav>
+  <button class="lang" id="lang" type="button" aria-label="EN (English)">EN</button>
+</header>
+
+<div class="controls">
+  <div class="search" role="search">
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M20 20l-4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+    <input id="q" type="search" autocomplete="off" spellcheck="false" enterkeyhint="go"
+           aria-autocomplete="list" aria-controls="suggest" aria-expanded="false" role="combobox">
+    <ul id="suggest" role="listbox" hidden></ul>
+  </div>
+  <div class="brands" role="radiogroup" aria-label="Marque" id="brands">
+    <button type="button" role="radio" data-brand="all" data-i18n="brandAll">Toutes marques</button>
+    <button type="button" role="radio" data-brand="axs">AXS</button>
+    <button type="button" role="radio" data-brand="tuff8">TUFF8</button>
+  </div>
+</div>
+
+<main id="main" tabindex="-1"></main>
+
+<dialog id="sheet" aria-labelledby="sheet-title">
+  <div class="sheet-head">
+    <h2 id="sheet-title"></h2>
+    <button type="button" class="close" data-close aria-label="Fermer">✕</button>
+  </div>
+  <div id="sheet-body"></div>
+</dialog>
+
+<footer class="foot">
+  <p data-i18n="disclaimer">Basé sur des rapports d'utilisateurs, pas sur des garanties du fabricant. Vérifiez l'ajustement avant que le client parte.</p>
+  <p id="meta"></p>
+</footer>
+<script type="module" src="app.js"></script>
+</body>
+</html>

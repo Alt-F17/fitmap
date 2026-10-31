@@ -1,0 +1,23 @@
+zflip4	z flip4
+a23	a23
+a27	a27
+mg5g23	moto g 2023
+edgeplus23	edge plus 2023
+razr23	razr 2023
+razrplus26	razr plus 2026
+tcl40xe	tcl 40 xe 5g
+mgpower23	g power 2023
+razrplus23	razr plus 2023
+razrplus25	razr plus 2025
+razrultra26	razr ultra 2026
+tcl40se	tcl 40 se
+tcl50xe	tcl 50 xe 5g
+tcl50se	tcl 50 se
+zfold8u	z fold8 ultra
+mgstylus23	g stylus 2023
+razrultra25	razr ultra 2025
+razrfold	razr fold
+tcl40nxt	tcl 40 nxtpaper
+tcl50xlnxt	tcl 50 xl nxtpaper 5g
+tcl50le	tcl 50 le
+tcl60r	tcl 60r 5g

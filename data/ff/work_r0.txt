@@ -1,0 +1,50 @@
+a14	a14
+a16	a16
+zflip4	z flip4
+zfold7	z fold7
+mgstylus5g23	g stylus 5g 2023
+mgplay26	g play 2026
+edge26	edge 2026
+razr26	razr 2026
+tcl40r	tcl 40 r 5g
+tcl60xe	tcl 60 xe nxtpaper 5g
+ip17e	iphone 17e
+a24	a24
+a26	a26
+zfold4	z fold4
+zflip8	z flip8
+mgplay24	g play 2024
+mg26	moto g 2026
+razr23	razr 2023
+razrplus26	razr plus 2026
+tcl50xl	tcl 50 xl 5g
+tcl60se	tcl 60 se nxtpaper
+ip16pro	iphone 16 pro
+ip18pro	iphone 18 pro
+s23u	s23 ultra
+s25u	s25 ultra
+a33	a33
+a35	a35
+a37	a37
+zflip7	z flip7
+mgpower23	g power 2023
+mgpower25	g power 2025
+edge24	edge 2024
+razrplus25	razr plus 2025
+tcl40se	tcl 40 se
+tcl50se	tcl 50 se
+ip15promax	iphone 15 pro max
+ip17pro	iphone 17 pro
+s22u	s22 ultra
+s24fe	s24 fe
+s26u	s26 ultra
+a54	a54
+a56	a56
+zfold5	z fold5
+zfold8u	z fold8 ultra
+mgpower24	g power 2024
+mgstylus26	g stylus 2026
+razr24	razr 2024
+razrfold	razr fold
+tcl50xlnxt	tcl 50 xl nxtpaper 5g
+tcl60r	tcl 60r 5g

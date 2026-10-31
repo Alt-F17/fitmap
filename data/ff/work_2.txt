@@ -1,0 +1,29 @@
+ip15pro	iphone 15 pro
+ip16pro	iphone 16 pro
+ipair	iphone air
+ip18pro	iphone 18 pro
+s22p	s22 plus
+s23u	s23 ultra
+s24u	s24 ultra
+s25u	s25 ultra
+s26p	s26 plus
+a33	a33
+a34	a34
+a35	a35
+a36	a36
+a37	a37
+zflip5	z flip5
+zflip7	z flip7
+zfold8	z fold8
+mgpower23	g power 2023
+mg5g24	moto g 2024
+mgpower25	g power 2025
+mgpower26	g power 2026
+edge24	edge 2024
+razrplus23	razr plus 2023
+razrplus25	razr plus 2025
+razrultra26	razr ultra 2026
+tcl40se	tcl 40 se
+tcl50xe	tcl 50 xe 5g
+tcl50se	tcl 50 se
+tcl60nxt	tcl 60 nxtpaper

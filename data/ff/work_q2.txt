@@ -1,0 +1,39 @@
+zflip4	site:reddit.com "z flip4" (case OR protector) fits
+a23	site:reddit.com "a23" (case OR protector) fits
+a27	site:reddit.com "a27" (case OR protector) fits
+mg5g23	site:reddit.com "moto g 2023" (case OR protector) fits
+edgeplus23	site:reddit.com "edge plus 2023" (case OR protector) fits
+razr23	site:reddit.com "razr 2023" (case OR protector) fits
+razrplus26	site:reddit.com "razr plus 2026" (case OR protector) fits
+tcl40xe	site:reddit.com "tcl 40 xe 5g" (case OR protector) fits
+mgpower23	site:reddit.com "g power 2023" (case OR protector) fits
+razrplus23	site:reddit.com "razr plus 2023" (case OR protector) fits
+razrplus25	site:reddit.com "razr plus 2025" (case OR protector) fits
+razrultra26	site:reddit.com "razr ultra 2026" (case OR protector) fits
+tcl40se	site:reddit.com "tcl 40 se" (case OR protector) fits
+tcl50xe	site:reddit.com "tcl 50 xe 5g" (case OR protector) fits
+tcl50se	site:reddit.com "tcl 50 se" (case OR protector) fits
+zfold8u	site:reddit.com "z fold8 ultra" (case OR protector) fits
+mgstylus23	site:reddit.com "g stylus 2023" (case OR protector) fits
+razrultra25	site:reddit.com "razr ultra 2025" (case OR protector) fits
+razrfold	site:reddit.com "razr fold" (case OR protector) fits
+tcl40nxt	site:reddit.com "tcl 40 nxtpaper" (case OR protector) fits
+tcl50xlnxt	site:reddit.com "tcl 50 xl nxtpaper 5g" (case OR protector) fits
+tcl50le	site:reddit.com "tcl 50 le" (case OR protector) fits
+tcl60r	site:reddit.com "tcl 60r 5g" (case OR protector) fits
+x-motog	site:reddit.com moto g power case fits moto g stylus
+x-motog	site:reddit.com "moto g" 2025 case fit 2026
+x-motog	site:reddit.com moto g play case fits moto g
+x-motog	site:reddit.com moto g stylus 2024 case fits 2025
+x-motog	site:reddit.com moto g power 2024 screen protector fits 2025
+x-razr	site:reddit.com razr 2024 case fits razr 2025
+x-razr	site:reddit.com razr plus case fits razr ultra
+x-edge	site:reddit.com motorola edge 2024 case fits edge 2025
+x-tcl	site:reddit.com tcl case fits other tcl model
+x-tcl	site:reddit.com nxtpaper case fits
+x-tcl	site:reddit.com tcl 50 xl case fits
+x-tcl	site:reddit.com tcl screen protector fits nxtpaper
+x-galaxya	site:reddit.com galaxy a56 screen protector fits a57
+x-galaxya	site:reddit.com a36 case fits a37
+x-galaxya	site:reddit.com a55 case fits a56
+x-galaxya	site:reddit.com a16 case fits a17

@@ -1,0 +1,13 @@
+node_modules/
+data/raw/
+data/raw_v2/
+data/threads/
+data/bestbuy_cache/
+data/reviews_*.json
+data/*.log
+data/snippets_done.txt
+tests/screens/
+__pycache__/
+PLAN.md
+data/raw_pp/
+data/raw_v2_slow/

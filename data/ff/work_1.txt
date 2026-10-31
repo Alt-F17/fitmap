@@ -1,0 +1,30 @@
+ip15plus	iphone 15 plus
+ip16plus	iphone 16 plus
+ip17	iphone 17
+ip17e	iphone 17e
+s22	s22
+s23p	s23 plus
+s24p	s24 plus
+s25p	s25 plus
+s26	s26
+a23	a23
+a24	a24
+a25	a25
+a26	a26
+a27	a27
+zfold4	z fold4
+zfold6	z fold6
+zflip8	z flip8
+mg5g23	moto g 2023
+mgplay24	g play 2024
+mg25	moto g 2025
+mg26	moto g 2026
+edgeplus23	edge plus 2023
+razr23	razr 2023
+razr25	razr 2025
+razrplus26	razr plus 2026
+tcl40xe	tcl 40 xe 5g
+tcl50xl	tcl 50 xl 5g
+tcl50pro	tcl 50 pro nxtpaper 5g
+tcl60se	tcl 60 se nxtpaper
+tcl70pro	tcl nxtpaper 70 pro

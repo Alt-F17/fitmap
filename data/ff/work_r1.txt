@@ -1,0 +1,49 @@
+a15	a15
+a17	a17
+zflip6	z flip6
+mgplay23	g play 2023
+mgstylus24	g stylus 2024
+edge23	edge 2023
+razrplus24	razr plus 2024
+tcl40xl	tcl 40 xl
+tcl50nxt	tcl 50 nxtpaper 5g
+tcl60ultra	tcl nxtpaper 60 ultra
+a23	a23
+a25	a25
+a27	a27
+zfold6	z fold6
+mg5g23	moto g 2023
+mg25	moto g 2025
+edgeplus23	edge plus 2023
+razr25	razr 2025
+tcl40xe	tcl 40 xe 5g
+tcl50pro	tcl 50 pro nxtpaper 5g
+tcl70pro	tcl nxtpaper 70 pro
+ipair	iphone air
+s22p	s22 plus
+s24u	s24 ultra
+s26p	s26 plus
+a34	a34
+a36	a36
+zflip5	z flip5
+zfold8	z fold8
+mg5g24	moto g 2024
+mgpower26	g power 2026
+razrplus23	razr plus 2023
+razrultra26	razr ultra 2026
+tcl50xe	tcl 50 xe 5g
+tcl60nxt	tcl 60 nxtpaper
+ip16promax	iphone 16 pro max
+ip18promax	iphone 18 pro max
+s23fe	s23 fe
+s25edge	s25 edge
+a53	a53
+a55	a55
+a57	a57
+zflip7fe	z flip7 fe
+mgstylus23	g stylus 2023
+mgstylus25	g stylus 2025
+edge25	edge 2025
+razrultra25	razr ultra 2025
+tcl40nxt	tcl 40 nxtpaper
+tcl50le	tcl 50 le

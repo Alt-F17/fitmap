@@ -1,0 +1,1393 @@
+[
+ {
+  "id": "ip15",
+  "brand": "Apple",
+  "family": "iPhone",
+  "name": "iPhone 15",
+  "year": 2023,
+  "aliases": [
+   "i15",
+   "iphone 15",
+   "iphone15"
+  ]
+ },
+ {
+  "id": "ip15plus",
+  "brand": "Apple",
+  "family": "iPhone",
+  "name": "iPhone 15 Plus",
+  "year": 2023,
+  "aliases": [
+   "15 plus",
+   "15+",
+   "iphone 15 plus"
+  ]
+ },
+ {
+  "id": "ip15pro",
+  "brand": "Apple",
+  "family": "iPhone",
+  "name": "iPhone 15 Pro",
+  "year": 2023,
+  "aliases": [
+   "15 pro",
+   "15p",
+   "iphone 15 pro"
+  ]
+ },
+ {
+  "id": "ip15promax",
+  "brand": "Apple",
+  "family": "iPhone",
+  "name": "iPhone 15 Pro Max",
+  "year": 2023,
+  "aliases": [
+   "15 pro max",
+   "15 promax",
+   "15pm",
+   "iphone 15 pro max"
+  ]
+ },
+ {
+  "id": "ip16",
+  "brand": "Apple",
+  "family": "iPhone",
+  "name": "iPhone 16",
+  "year": 2024,
+  "aliases": [
+   "i16",
+   "iphone 16",
+   "iphone16"
+  ]
+ },
+ {
+  "id": "ip16plus",
+  "brand": "Apple",
+  "family": "iPhone",
+  "name": "iPhone 16 Plus",
+  "year": 2024,
+  "aliases": [
+   "16 plus",
+   "16+",
+   "iphone 16 plus"
+  ]
+ },
+ {
+  "id": "ip16pro",
+  "brand": "Apple",
+  "family": "iPhone",
+  "name": "iPhone 16 Pro",
+  "year": 2024,
+  "aliases": [
+   "16 pro",
+   "16p",
+   "iphone 16 pro"
+  ]
+ },
+ {
+  "id": "ip16promax",
+  "brand": "Apple",
+  "family": "iPhone",
+  "name": "iPhone 16 Pro Max",
+  "year": 2024,
+  "aliases": [
+   "16 pro max",
+   "16 promax",
+   "16pm",
+   "iphone 16 pro max"
+  ]
+ },
+ {
+  "id": "ip16e",
+  "brand": "Apple",
+  "family": "iPhone",
+  "name": "iPhone 16e",
+  "year": 2025,
+  "aliases": [
+   "16e",
+   "iphone 16 e",
+   "iphone 16e"
+  ]
+ },
+ {
+  "id": "ip17",
+  "brand": "Apple",
+  "family": "iPhone",
+  "name": "iPhone 17",
+  "year": 2025,
+  "aliases": [
+   "i17",
+   "iphone 17",
+   "iphone17"
+  ]
+ },
+ {
+  "id": "ipair",
+  "brand": "Apple",
+  "family": "iPhone",
+  "name": "iPhone Air",
+  "year": 2025,
+  "aliases": [
+   "17 air",
+   "iphone air"
+  ]
+ },
+ {
+  "id": "ip17pro",
+  "brand": "Apple",
+  "family": "iPhone",
+  "name": "iPhone 17 Pro",
+  "year": 2025,
+  "aliases": [
+   "17 pro",
+   "17p",
+   "iphone 17 pro"
+  ]
+ },
+ {
+  "id": "ip17promax",
+  "brand": "Apple",
+  "family": "iPhone",
+  "name": "iPhone 17 Pro Max",
+  "year": 2025,
+  "aliases": [
+   "17 pro max",
+   "17 promax",
+   "17pm",
+   "iphone 17 pro max"
+  ]
+ },
+ {
+  "id": "ip17e",
+  "brand": "Apple",
+  "family": "iPhone",
+  "name": "iPhone 17e",
+  "year": 2026,
+  "aliases": [
+   "17e",
+   "iphone 17 e",
+   "iphone 17e"
+  ]
+ },
+ {
+  "id": "ip18pro",
+  "brand": "Apple",
+  "family": "iPhone",
+  "name": "iPhone 18 Pro",
+  "year": 2026,
+  "aliases": [
+   "18 pro",
+   "18p",
+   "iphone 18 pro"
+  ]
+ },
+ {
+  "id": "ip18promax",
+  "brand": "Apple",
+  "family": "iPhone",
+  "name": "iPhone 18 Pro Max",
+  "year": 2026,
+  "aliases": [
+   "18 pro max",
+   "18 promax",
+   "18pm",
+   "iphone 18 pro max"
+  ]
+ },
+ {
+  "id": "ipduo",
+  "brand": "Apple",
+  "family": "iPhone",
+  "name": "iPhone Duo (foldable)",
+  "year": 2026,
+  "aliases": [
+   "iphone duo",
+   "iphone duo (foldable)",
+   "iphone fold"
+  ]
+ },
+ {
+  "id": "s22",
+  "brand": "Samsung",
+  "family": "Galaxy S",
+  "name": "Galaxy S22",
+  "year": 2022,
+  "aliases": [
+   "galaxy s22",
+   "s22"
+  ]
+ },
+ {
+  "id": "s22p",
+  "brand": "Samsung",
+  "family": "Galaxy S",
+  "name": "Galaxy S22+",
+  "year": 2022,
+  "aliases": [
+   "galaxy s22+",
+   "s22 plus",
+   "s22+"
+  ]
+ },
+ {
+  "id": "s22u",
+  "brand": "Samsung",
+  "family": "Galaxy S",
+  "name": "Galaxy S22 Ultra",
+  "year": 2022,
+  "aliases": [
+   "galaxy s22 ultra",
+   "s22 ultra",
+   "s22u"
+  ]
+ },
+ {
+  "id": "s23",
+  "brand": "Samsung",
+  "family": "Galaxy S",
+  "name": "Galaxy S23",
+  "year": 2023,
+  "aliases": [
+   "galaxy s23",
+   "s23"
+  ]
+ },
+ {
+  "id": "s23p",
+  "brand": "Samsung",
+  "family": "Galaxy S",
+  "name": "Galaxy S23+",
+  "year": 2023,
+  "aliases": [
+   "galaxy s23+",
+   "s23 plus",
+   "s23+"
+  ]
+ },
+ {
+  "id": "s23u",
+  "brand": "Samsung",
+  "family": "Galaxy S",
+  "name": "Galaxy S23 Ultra",
+  "year": 2023,
+  "aliases": [
+   "galaxy s23 ultra",
+   "s23 ultra",
+   "s23u"
+  ]
+ },
+ {
+  "id": "s23fe",
+  "brand": "Samsung",
+  "family": "Galaxy S",
+  "name": "Galaxy S23 FE",
+  "year": 2023,
+  "aliases": [
+   "galaxy s23 fe",
+   "s23 fe",
+   "s23fe"
+  ]
+ },
+ {
+  "id": "s24",
+  "brand": "Samsung",
+  "family": "Galaxy S",
+  "name": "Galaxy S24",
+  "year": 2024,
+  "aliases": [
+   "galaxy s24",
+   "s24"
+  ]
+ },
+ {
+  "id": "s24p",
+  "brand": "Samsung",
+  "family": "Galaxy S",
+  "name": "Galaxy S24+",
+  "year": 2024,
+  "aliases": [
+   "galaxy s24+",
+   "s24 plus",
+   "s24+"
+  ]
+ },
+ {
+  "id": "s24u",
+  "brand": "Samsung",
+  "family": "Galaxy S",
+  "name": "Galaxy S24 Ultra",
+  "year": 2024,
+  "aliases": [
+   "galaxy s24 ultra",
+   "s24 ultra",
+   "s24u"
+  ]
+ },
+ {
+  "id": "s24fe",
+  "brand": "Samsung",
+  "family": "Galaxy S",
+  "name": "Galaxy S24 FE",
+  "year": 2024,
+  "aliases": [
+   "galaxy s24 fe",
+   "s24 fe",
+   "s24fe"
+  ]
+ },
+ {
+  "id": "s25",
+  "brand": "Samsung",
+  "family": "Galaxy S",
+  "name": "Galaxy S25",
+  "year": 2025,
+  "aliases": [
+   "galaxy s25",
+   "s25"
+  ]
+ },
+ {
+  "id": "s25p",
+  "brand": "Samsung",
+  "family": "Galaxy S",
+  "name": "Galaxy S25+",
+  "year": 2025,
+  "aliases": [
+   "galaxy s25+",
+   "s25 plus",
+   "s25+"
+  ]
+ },
+ {
+  "id": "s25u",
+  "brand": "Samsung",
+  "family": "Galaxy S",
+  "name": "Galaxy S25 Ultra",
+  "year": 2025,
+  "aliases": [
+   "galaxy s25 ultra",
+   "s25 ultra",
+   "s25u"
+  ]
+ },
+ {
+  "id": "s25edge",
+  "brand": "Samsung",
+  "family": "Galaxy S",
+  "name": "Galaxy S25 Edge",
+  "year": 2025,
+  "aliases": [
+   "galaxy s25 edge",
+   "s25 edge"
+  ]
+ },
+ {
+  "id": "s25fe",
+  "brand": "Samsung",
+  "family": "Galaxy S",
+  "name": "Galaxy S25 FE",
+  "year": 2025,
+  "aliases": [
+   "galaxy s25 fe",
+   "s25 fe",
+   "s25fe"
+  ]
+ },
+ {
+  "id": "s26",
+  "brand": "Samsung",
+  "family": "Galaxy S",
+  "name": "Galaxy S26",
+  "year": 2026,
+  "aliases": [
+   "galaxy s26",
+   "s26"
+  ]
+ },
+ {
+  "id": "s26p",
+  "brand": "Samsung",
+  "family": "Galaxy S",
+  "name": "Galaxy S26+",
+  "year": 2026,
+  "aliases": [
+   "galaxy s26+",
+   "s26 plus",
+   "s26+"
+  ]
+ },
+ {
+  "id": "s26u",
+  "brand": "Samsung",
+  "family": "Galaxy S",
+  "name": "Galaxy S26 Ultra",
+  "year": 2026,
+  "aliases": [
+   "galaxy s26 ultra",
+   "s26 ultra",
+   "s26u"
+  ]
+ },
+ {
+  "id": "a13",
+  "brand": "Samsung",
+  "family": "Galaxy A",
+  "name": "Galaxy A13",
+  "year": 2022,
+  "aliases": [
+   "a13",
+   "galaxy a13"
+  ]
+ },
+ {
+  "id": "a23",
+  "brand": "Samsung",
+  "family": "Galaxy A",
+  "name": "Galaxy A23",
+  "year": 2022,
+  "aliases": [
+   "a23",
+   "galaxy a23"
+  ]
+ },
+ {
+  "id": "a33",
+  "brand": "Samsung",
+  "family": "Galaxy A",
+  "name": "Galaxy A33",
+  "year": 2022,
+  "aliases": [
+   "a33",
+   "galaxy a33"
+  ]
+ },
+ {
+  "id": "a53",
+  "brand": "Samsung",
+  "family": "Galaxy A",
+  "name": "Galaxy A53",
+  "year": 2022,
+  "aliases": [
+   "a53",
+   "galaxy a53"
+  ]
+ },
+ {
+  "id": "a14",
+  "brand": "Samsung",
+  "family": "Galaxy A",
+  "name": "Galaxy A14",
+  "year": 2023,
+  "aliases": [
+   "a14",
+   "galaxy a14"
+  ]
+ },
+ {
+  "id": "a24",
+  "brand": "Samsung",
+  "family": "Galaxy A",
+  "name": "Galaxy A24",
+  "year": 2023,
+  "aliases": [
+   "a24",
+   "galaxy a24"
+  ]
+ },
+ {
+  "id": "a34",
+  "brand": "Samsung",
+  "family": "Galaxy A",
+  "name": "Galaxy A34",
+  "year": 2023,
+  "aliases": [
+   "a34",
+   "galaxy a34"
+  ]
+ },
+ {
+  "id": "a54",
+  "brand": "Samsung",
+  "family": "Galaxy A",
+  "name": "Galaxy A54",
+  "year": 2023,
+  "aliases": [
+   "a54",
+   "galaxy a54"
+  ]
+ },
+ {
+  "id": "a15",
+  "brand": "Samsung",
+  "family": "Galaxy A",
+  "name": "Galaxy A15",
+  "year": 2024,
+  "aliases": [
+   "a15",
+   "galaxy a15"
+  ]
+ },
+ {
+  "id": "a25",
+  "brand": "Samsung",
+  "family": "Galaxy A",
+  "name": "Galaxy A25",
+  "year": 2024,
+  "aliases": [
+   "a25",
+   "galaxy a25"
+  ]
+ },
+ {
+  "id": "a35",
+  "brand": "Samsung",
+  "family": "Galaxy A",
+  "name": "Galaxy A35",
+  "year": 2024,
+  "aliases": [
+   "a35",
+   "galaxy a35"
+  ]
+ },
+ {
+  "id": "a55",
+  "brand": "Samsung",
+  "family": "Galaxy A",
+  "name": "Galaxy A55",
+  "year": 2024,
+  "aliases": [
+   "a55",
+   "galaxy a55"
+  ]
+ },
+ {
+  "id": "a16",
+  "brand": "Samsung",
+  "family": "Galaxy A",
+  "name": "Galaxy A16",
+  "year": 2025,
+  "aliases": [
+   "a16",
+   "galaxy a16"
+  ]
+ },
+ {
+  "id": "a26",
+  "brand": "Samsung",
+  "family": "Galaxy A",
+  "name": "Galaxy A26",
+  "year": 2025,
+  "aliases": [
+   "a26",
+   "galaxy a26"
+  ]
+ },
+ {
+  "id": "a36",
+  "brand": "Samsung",
+  "family": "Galaxy A",
+  "name": "Galaxy A36",
+  "year": 2025,
+  "aliases": [
+   "a36",
+   "galaxy a36"
+  ]
+ },
+ {
+  "id": "a56",
+  "brand": "Samsung",
+  "family": "Galaxy A",
+  "name": "Galaxy A56",
+  "year": 2025,
+  "aliases": [
+   "a56",
+   "galaxy a56"
+  ]
+ },
+ {
+  "id": "a17",
+  "brand": "Samsung",
+  "family": "Galaxy A",
+  "name": "Galaxy A17",
+  "year": 2026,
+  "aliases": [
+   "a17",
+   "galaxy a17"
+  ]
+ },
+ {
+  "id": "a27",
+  "brand": "Samsung",
+  "family": "Galaxy A",
+  "name": "Galaxy A27",
+  "year": 2026,
+  "aliases": [
+   "a27",
+   "galaxy a27"
+  ]
+ },
+ {
+  "id": "a37",
+  "brand": "Samsung",
+  "family": "Galaxy A",
+  "name": "Galaxy A37",
+  "year": 2026,
+  "aliases": [
+   "a37",
+   "galaxy a37"
+  ]
+ },
+ {
+  "id": "a57",
+  "brand": "Samsung",
+  "family": "Galaxy A",
+  "name": "Galaxy A57",
+  "year": 2026,
+  "aliases": [
+   "a57",
+   "galaxy a57"
+  ]
+ },
+ {
+  "id": "zflip4",
+  "brand": "Samsung",
+  "family": "Galaxy Z",
+  "name": "Galaxy Z Flip4",
+  "year": 2022,
+  "aliases": [
+   "flip 4",
+   "flip4",
+   "galaxy z flip4",
+   "zflip4"
+  ]
+ },
+ {
+  "id": "zfold4",
+  "brand": "Samsung",
+  "family": "Galaxy Z",
+  "name": "Galaxy Z Fold4",
+  "year": 2022,
+  "aliases": [
+   "fold 4",
+   "fold4",
+   "galaxy z fold4",
+   "zfold4"
+  ]
+ },
+ {
+  "id": "zflip5",
+  "brand": "Samsung",
+  "family": "Galaxy Z",
+  "name": "Galaxy Z Flip5",
+  "year": 2023,
+  "aliases": [
+   "flip 5",
+   "flip5",
+   "galaxy z flip5",
+   "zflip5"
+  ]
+ },
+ {
+  "id": "zfold5",
+  "brand": "Samsung",
+  "family": "Galaxy Z",
+  "name": "Galaxy Z Fold5",
+  "year": 2023,
+  "aliases": [
+   "fold 5",
+   "fold5",
+   "galaxy z fold5",
+   "zfold5"
+  ]
+ },
+ {
+  "id": "zflip6",
+  "brand": "Samsung",
+  "family": "Galaxy Z",
+  "name": "Galaxy Z Flip6",
+  "year": 2024,
+  "aliases": [
+   "flip 6",
+   "flip6",
+   "galaxy z flip6",
+   "zflip6"
+  ]
+ },
+ {
+  "id": "zfold6",
+  "brand": "Samsung",
+  "family": "Galaxy Z",
+  "name": "Galaxy Z Fold6",
+  "year": 2024,
+  "aliases": [
+   "fold 6",
+   "fold6",
+   "galaxy z fold6",
+   "zfold6"
+  ]
+ },
+ {
+  "id": "zflip7",
+  "brand": "Samsung",
+  "family": "Galaxy Z",
+  "name": "Galaxy Z Flip7",
+  "year": 2025,
+  "aliases": [
+   "flip 7",
+   "flip7",
+   "galaxy z flip7",
+   "zflip7"
+  ]
+ },
+ {
+  "id": "zflip7fe",
+  "brand": "Samsung",
+  "family": "Galaxy Z",
+  "name": "Galaxy Z Flip7 FE",
+  "year": 2025,
+  "aliases": [
+   "flip 7 fe",
+   "flip7 fe",
+   "galaxy z flip7 fe"
+  ]
+ },
+ {
+  "id": "zfold7",
+  "brand": "Samsung",
+  "family": "Galaxy Z",
+  "name": "Galaxy Z Fold7",
+  "year": 2025,
+  "aliases": [
+   "fold 7",
+   "fold7",
+   "galaxy z fold7",
+   "zfold7"
+  ]
+ },
+ {
+  "id": "zflip8",
+  "brand": "Samsung",
+  "family": "Galaxy Z",
+  "name": "Galaxy Z Flip8",
+  "year": 2026,
+  "aliases": [
+   "flip 8",
+   "flip8",
+   "galaxy z flip8",
+   "zflip8"
+  ]
+ },
+ {
+  "id": "zfold8",
+  "brand": "Samsung",
+  "family": "Galaxy Z",
+  "name": "Galaxy Z Fold8",
+  "year": 2026,
+  "aliases": [
+   "fold 8",
+   "fold8",
+   "galaxy z fold8",
+   "zfold8"
+  ]
+ },
+ {
+  "id": "zfold8u",
+  "brand": "Samsung",
+  "family": "Galaxy Z",
+  "name": "Galaxy Z Fold8 Ultra",
+  "year": 2026,
+  "aliases": [
+   "fold 8 ultra",
+   "fold8 ultra",
+   "galaxy z fold8 ultra"
+  ]
+ },
+ {
+  "id": "mgplay23",
+  "brand": "Motorola",
+  "family": "moto g",
+  "name": "moto g play (2023)",
+  "year": 2023,
+  "aliases": [
+   "g play 2023",
+   "moto g play (2023)"
+  ]
+ },
+ {
+  "id": "mg5g23",
+  "brand": "Motorola",
+  "family": "moto g",
+  "name": "moto g 5G (2023)",
+  "year": 2023,
+  "aliases": [
+   "g 5g 2023",
+   "moto g 2023",
+   "moto g 5g (2023)"
+  ]
+ },
+ {
+  "id": "mgpower23",
+  "brand": "Motorola",
+  "family": "moto g",
+  "name": "moto g power 5G (2023)",
+  "year": 2023,
+  "aliases": [
+   "g power 2023",
+   "moto g power 5g (2023)"
+  ]
+ },
+ {
+  "id": "mgstylus23",
+  "brand": "Motorola",
+  "family": "moto g",
+  "name": "moto g stylus (2023)",
+  "year": 2023,
+  "aliases": [
+   "g stylus 2023",
+   "moto g stylus (2023)",
+   "stylus 2023"
+  ]
+ },
+ {
+  "id": "mgstylus5g23",
+  "brand": "Motorola",
+  "family": "moto g",
+  "name": "moto g stylus 5G (2023)",
+  "year": 2023,
+  "aliases": [
+   "g stylus 5g 2023",
+   "moto g stylus 5g (2023)",
+   "stylus 5g 2023"
+  ]
+ },
+ {
+  "id": "mgplay24",
+  "brand": "Motorola",
+  "family": "moto g",
+  "name": "moto g play (2024)",
+  "year": 2024,
+  "aliases": [
+   "g play 2024",
+   "moto g play (2024)"
+  ]
+ },
+ {
+  "id": "mg5g24",
+  "brand": "Motorola",
+  "family": "moto g",
+  "name": "moto g 5G (2024)",
+  "year": 2024,
+  "aliases": [
+   "g 5g 2024",
+   "moto g 2024",
+   "moto g 5g (2024)"
+  ]
+ },
+ {
+  "id": "mgpower24",
+  "brand": "Motorola",
+  "family": "moto g",
+  "name": "moto g power 5G (2024)",
+  "year": 2024,
+  "aliases": [
+   "g power 2024",
+   "moto g power 5g (2024)"
+  ]
+ },
+ {
+  "id": "mgstylus24",
+  "brand": "Motorola",
+  "family": "moto g",
+  "name": "moto g stylus 5G (2024)",
+  "year": 2024,
+  "aliases": [
+   "g stylus 2024",
+   "moto g stylus 5g (2024)",
+   "stylus 2024"
+  ]
+ },
+ {
+  "id": "mg25",
+  "brand": "Motorola",
+  "family": "moto g",
+  "name": "moto g (2025)",
+  "year": 2025,
+  "aliases": [
+   "g 2025",
+   "moto g (2025)",
+   "moto g 2025"
+  ]
+ },
+ {
+  "id": "mgpower25",
+  "brand": "Motorola",
+  "family": "moto g",
+  "name": "moto g power (2025)",
+  "year": 2025,
+  "aliases": [
+   "g power 2025",
+   "moto g power (2025)",
+   "power 2025"
+  ]
+ },
+ {
+  "id": "mgstylus25",
+  "brand": "Motorola",
+  "family": "moto g",
+  "name": "moto g stylus (2025)",
+  "year": 2025,
+  "aliases": [
+   "g stylus 2025",
+   "moto g stylus (2025)",
+   "stylus 2025"
+  ]
+ },
+ {
+  "id": "mgplay26",
+  "brand": "Motorola",
+  "family": "moto g",
+  "name": "moto g play (2026)",
+  "year": 2026,
+  "aliases": [
+   "g play 2026",
+   "moto g play (2026)"
+  ]
+ },
+ {
+  "id": "mg26",
+  "brand": "Motorola",
+  "family": "moto g",
+  "name": "moto g (2026)",
+  "year": 2026,
+  "aliases": [
+   "g 2026",
+   "moto g (2026)",
+   "moto g 2026"
+  ]
+ },
+ {
+  "id": "mgpower26",
+  "brand": "Motorola",
+  "family": "moto g",
+  "name": "moto g power (2026)",
+  "year": 2026,
+  "aliases": [
+   "g power 2026",
+   "moto g power (2026)",
+   "power 2026"
+  ]
+ },
+ {
+  "id": "mgstylus26",
+  "brand": "Motorola",
+  "family": "moto g",
+  "name": "moto g stylus (2026)",
+  "year": 2026,
+  "aliases": [
+   "g stylus 2026",
+   "moto g stylus (2026)",
+   "stylus 2026"
+  ]
+ },
+ {
+  "id": "edge23",
+  "brand": "Motorola",
+  "family": "edge",
+  "name": "motorola edge (2023)",
+  "year": 2023,
+  "aliases": [
+   "edge 2023",
+   "motorola edge (2023)"
+  ]
+ },
+ {
+  "id": "edgeplus23",
+  "brand": "Motorola",
+  "family": "edge",
+  "name": "motorola edge+ (2023)",
+  "year": 2023,
+  "aliases": [
+   "edge 40 pro",
+   "edge plus 2023",
+   "edge+ 2023",
+   "motorola edge+ (2023)"
+  ]
+ },
+ {
+  "id": "edge24",
+  "brand": "Motorola",
+  "family": "edge",
+  "name": "motorola edge (2024)",
+  "year": 2024,
+  "aliases": [
+   "edge 2024",
+   "motorola edge (2024)"
+  ]
+ },
+ {
+  "id": "edge25",
+  "brand": "Motorola",
+  "family": "edge",
+  "name": "motorola edge (2025)",
+  "year": 2025,
+  "aliases": [
+   "edge 2025",
+   "motorola edge (2025)"
+  ]
+ },
+ {
+  "id": "edge26",
+  "brand": "Motorola",
+  "family": "edge",
+  "name": "motorola edge (2026)",
+  "year": 2026,
+  "aliases": [
+   "edge 2026",
+   "motorola edge (2026)"
+  ]
+ },
+ {
+  "id": "razr23",
+  "brand": "Motorola",
+  "family": "razr",
+  "name": "razr (2023) / razr 40",
+  "year": 2023,
+  "aliases": [
+   "razr (2023) / razr 40",
+   "razr 2023",
+   "razr 40"
+  ]
+ },
+ {
+  "id": "razrplus23",
+  "brand": "Motorola",
+  "family": "razr",
+  "name": "razr+ (2023) / razr 40 ultra",
+  "year": 2023,
+  "aliases": [
+   "razr 40 ultra",
+   "razr plus 2023",
+   "razr+ (2023) / razr 40 ultra",
+   "razr+ 2023"
+  ]
+ },
+ {
+  "id": "razr24",
+  "brand": "Motorola",
+  "family": "razr",
+  "name": "razr (2024) / razr 50",
+  "year": 2024,
+  "aliases": [
+   "razr (2024) / razr 50",
+   "razr 2024",
+   "razr 50"
+  ]
+ },
+ {
+  "id": "razrplus24",
+  "brand": "Motorola",
+  "family": "razr",
+  "name": "razr+ (2024) / razr 50 ultra",
+  "year": 2024,
+  "aliases": [
+   "razr 50 ultra",
+   "razr plus 2024",
+   "razr+ (2024) / razr 50 ultra",
+   "razr+ 2024"
+  ]
+ },
+ {
+  "id": "razr25",
+  "brand": "Motorola",
+  "family": "razr",
+  "name": "razr (2025) / razr 60",
+  "year": 2025,
+  "aliases": [
+   "razr (2025) / razr 60",
+   "razr 2025",
+   "razr 60"
+  ]
+ },
+ {
+  "id": "razrplus25",
+  "brand": "Motorola",
+  "family": "razr",
+  "name": "razr+ (2025)",
+  "year": 2025,
+  "aliases": [
+   "razr plus 2025",
+   "razr+ (2025)",
+   "razr+ 2025"
+  ]
+ },
+ {
+  "id": "razrultra25",
+  "brand": "Motorola",
+  "family": "razr",
+  "name": "razr ultra (2025) / razr 60 ultra",
+  "year": 2025,
+  "aliases": [
+   "razr 60 ultra",
+   "razr ultra (2025) / razr 60 ultra",
+   "razr ultra 2025"
+  ]
+ },
+ {
+  "id": "razr26",
+  "brand": "Motorola",
+  "family": "razr",
+  "name": "razr (2026) / razr 70",
+  "year": 2026,
+  "aliases": [
+   "razr (2026) / razr 70",
+   "razr 2026",
+   "razr 70"
+  ]
+ },
+ {
+  "id": "razrplus26",
+  "brand": "Motorola",
+  "family": "razr",
+  "name": "razr+ (2026) / razr 70 plus",
+  "year": 2026,
+  "aliases": [
+   "razr 70 plus",
+   "razr plus 2026",
+   "razr+ (2026) / razr 70 plus",
+   "razr+ 2026"
+  ]
+ },
+ {
+  "id": "razrultra26",
+  "brand": "Motorola",
+  "family": "razr",
+  "name": "razr ultra (2026) / razr 70 ultra",
+  "year": 2026,
+  "aliases": [
+   "razr 70 ultra",
+   "razr ultra (2026) / razr 70 ultra",
+   "razr ultra 2026"
+  ]
+ },
+ {
+  "id": "razrfold",
+  "brand": "Motorola",
+  "family": "razr",
+  "name": "razr fold",
+  "year": 2026,
+  "aliases": [
+   "razr fold"
+  ]
+ },
+ {
+  "id": "tcl40xl",
+  "brand": "TCL",
+  "family": "TCL",
+  "name": "TCL 40 XL",
+  "year": 2023,
+  "aliases": [
+   "40 xl",
+   "40xl",
+   "tcl 40 xl"
+  ]
+ },
+ {
+  "id": "tcl40xe",
+  "brand": "TCL",
+  "family": "TCL",
+  "name": "TCL 40 XE 5G",
+  "year": 2023,
+  "aliases": [
+   "40 xe",
+   "40xe",
+   "tcl 40 xe 5g"
+  ]
+ },
+ {
+  "id": "tcl40se",
+  "brand": "TCL",
+  "family": "TCL",
+  "name": "TCL 40 SE",
+  "year": 2023,
+  "aliases": [
+   "40 se",
+   "40se",
+   "tcl 40 se"
+  ]
+ },
+ {
+  "id": "tcl40nxt",
+  "brand": "TCL",
+  "family": "TCL",
+  "name": "TCL 40 NXTPAPER (5G)",
+  "year": 2023,
+  "aliases": [
+   "40 nxtpaper",
+   "tcl 40 nxtpaper (5g)"
+  ]
+ },
+ {
+  "id": "tcl40r",
+  "brand": "TCL",
+  "family": "TCL",
+  "name": "TCL 40 R 5G",
+  "year": 2023,
+  "aliases": [
+   "40 r 5g",
+   "40r",
+   "tcl 40 r 5g"
+  ]
+ },
+ {
+  "id": "tcl50xl",
+  "brand": "TCL",
+  "family": "TCL",
+  "name": "TCL 50 XL 5G",
+  "year": 2024,
+  "aliases": [
+   "50 xl",
+   "50xl",
+   "tcl 50 xl 5g"
+  ]
+ },
+ {
+  "id": "tcl50xe",
+  "brand": "TCL",
+  "family": "TCL",
+  "name": "TCL 50 XE 5G",
+  "year": 2024,
+  "aliases": [
+   "50 xe",
+   "50xe",
+   "tcl 50 xe 5g"
+  ]
+ },
+ {
+  "id": "tcl50xlnxt",
+  "brand": "TCL",
+  "family": "TCL",
+  "name": "TCL 50 XL NXTPAPER 5G",
+  "year": 2024,
+  "aliases": [
+   "50 xl nxtpaper",
+   "tcl 50 xl nxtpaper 5g"
+  ]
+ },
+ {
+  "id": "tcl50nxt",
+  "brand": "TCL",
+  "family": "TCL",
+  "name": "TCL 50 NXTPAPER 5G",
+  "year": 2024,
+  "aliases": [
+   "50 nxtpaper",
+   "tcl 50 nxtpaper 5g"
+  ]
+ },
+ {
+  "id": "tcl50pro",
+  "brand": "TCL",
+  "family": "TCL",
+  "name": "TCL 50 Pro NXTPAPER 5G",
+  "year": 2024,
+  "aliases": [
+   "50 pro",
+   "50 pro nxtpaper",
+   "tcl 50 pro nxtpaper 5g"
+  ]
+ },
+ {
+  "id": "tcl50se",
+  "brand": "TCL",
+  "family": "TCL",
+  "name": "TCL 50 SE",
+  "year": 2024,
+  "aliases": [
+   "50 se",
+   "50se",
+   "tcl 50 se"
+  ]
+ },
+ {
+  "id": "tcl50le",
+  "brand": "TCL",
+  "family": "TCL",
+  "name": "TCL 50 LE",
+  "year": 2024,
+  "aliases": [
+   "50 le",
+   "tcl 50 le"
+  ]
+ },
+ {
+  "id": "tcl60xe",
+  "brand": "TCL",
+  "family": "TCL",
+  "name": "TCL 60 XE NXTPAPER 5G",
+  "year": 2025,
+  "aliases": [
+   "60 xe",
+   "60xe",
+   "tcl 60 xe nxtpaper 5g"
+  ]
+ },
+ {
+  "id": "tcl60se",
+  "brand": "TCL",
+  "family": "TCL",
+  "name": "TCL 60 SE NXTPAPER",
+  "year": 2025,
+  "aliases": [
+   "60 se",
+   "tcl 60 se nxtpaper"
+  ]
+ },
+ {
+  "id": "tcl60nxt",
+  "brand": "TCL",
+  "family": "TCL",
+  "name": "TCL 60 NXTPAPER",
+  "year": 2025,
+  "aliases": [
+   "60 nxtpaper",
+   "tcl 60 nxtpaper"
+  ]
+ },
+ {
+  "id": "tcl60r",
+  "brand": "TCL",
+  "family": "TCL",
+  "name": "TCL 60R 5G",
+  "year": 2025,
+  "aliases": [
+   "60 r 5g",
+   "60r",
+   "tcl 60r 5g"
+  ]
+ },
+ {
+  "id": "tcl60ultra",
+  "brand": "TCL",
+  "family": "TCL",
+  "name": "TCL NXTPAPER 60 Ultra",
+  "year": 2025,
+  "aliases": [
+   "60 ultra",
+   "nxtpaper 60 ultra",
+   "tcl nxtpaper 60 ultra"
+  ]
+ },
+ {
+  "id": "tcl70pro",
+  "brand": "TCL",
+  "family": "TCL",
+  "name": "TCL NXTPAPER 70 Pro",
+  "year": 2026,
+  "aliases": [
+   "70 pro",
+   "nxtpaper 70",
+   "nxtpaper 70 pro",
+   "tcl nxtpaper 70 pro"
+  ]
+ }
+]

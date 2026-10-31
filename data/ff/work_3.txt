@@ -1,0 +1,29 @@
+ip15promax	iphone 15 pro max
+ip16promax	iphone 16 pro max
+ip17pro	iphone 17 pro
+ip18promax	iphone 18 pro max
+s22u	s22 ultra
+s23fe	s23 fe
+s24fe	s24 fe
+s25edge	s25 edge
+s26u	s26 ultra
+a53	a53
+a54	a54
+a55	a55
+a56	a56
+a57	a57
+zfold5	z fold5
+zflip7fe	z flip7 fe
+zfold8u	z fold8 ultra
+mgstylus23	g stylus 2023
+mgpower24	g power 2024
+mgstylus25	g stylus 2025
+mgstylus26	g stylus 2026
+edge25	edge 2025
+razr24	razr 2024
+razrultra25	razr ultra 2025
+razrfold	razr fold
+tcl40nxt	tcl 40 nxtpaper
+tcl50xlnxt	tcl 50 xl nxtpaper 5g
+tcl50le	tcl 50 le
+tcl60r	tcl 60r 5g
