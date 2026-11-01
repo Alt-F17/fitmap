@@ -1,0 +1,36 @@
+px8	site:reddit.com "pixel 8" case fits
+px8	site:reddit.com "pixel 8" screen protector fits
+px8pro	site:reddit.com "pixel 8 pro" case fits
+px8pro	site:reddit.com "pixel 8 pro" screen protector fits
+px8a	site:reddit.com "pixel 8a" case fits
+px8a	site:reddit.com "pixel 8a" screen protector fits
+px9	site:reddit.com "pixel 9" case fits
+px9	site:reddit.com "pixel 9" screen protector fits
+px9pro	site:reddit.com "pixel 9 pro" case fits
+px9pro	site:reddit.com "pixel 9 pro" screen protector fits
+px9proxl	site:reddit.com "pixel 9 pro xl" case fits
+px9proxl	site:reddit.com "pixel 9 pro xl" screen protector fits
+px9a	site:reddit.com "pixel 9a" case fits
+px9a	site:reddit.com "pixel 9a" screen protector fits
+px10	site:reddit.com "pixel 10" case fits
+px10	site:reddit.com "pixel 10" screen protector fits
+px10pro	site:reddit.com "pixel 10 pro" case fits
+px10pro	site:reddit.com "pixel 10 pro" screen protector fits
+px10proxl	site:reddit.com "pixel 10 pro xl" case fits
+px10proxl	site:reddit.com "pixel 10 pro xl" screen protector fits
+px10a	site:reddit.com "pixel 10a" case fits
+px10a	site:reddit.com "pixel 10a" screen protector fits
+px11	site:reddit.com "pixel 11" case fits
+px11	site:reddit.com "pixel 11" screen protector fits
+px11pro	site:reddit.com "pixel 11 pro" case fits
+px11pro	site:reddit.com "pixel 11 pro" screen protector fits
+px11proxl	site:reddit.com "pixel 11 pro xl" case fits
+px11proxl	site:reddit.com "pixel 11 pro xl" screen protector fits
+x-pixel	site:reddit.com pixel 9 case fits pixel 10
+x-pixel	site:reddit.com pixel 10 pro case fits pixel 11 pro
+x-pixel	site:reddit.com pixel 9 pro screen protector fits pixel 10 pro
+x-pixel	site:reddit.com pixel 9a case fits pixel 10a
+x-pixel	site:reddit.com pixel 8a case fits pixel 9a
+x-pixel	site:reddit.com pixel 10 pro xl case fits pixel 11 pro xl
+x-pixel	site:reddit.com pixel 10 magnets qi2 case fits pixel 9
+x-pixel	site:reddit.com pixel 11 case fits pixel 10

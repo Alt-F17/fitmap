@@ -90,7 +90,7 @@ const CAVEATS = {
 const VERDICT_ICON = { fits: "✓", fits_with_caveat: "!", doesnt_fit: "✕", mixed: "≈" };
 const VRANK = { fits: 0, fits_with_caveat: 1, mixed: 2, doesnt_fit: 3 };
 const KRANK = { strong: 0, likely: 1, mixed: 2, weak: 3 };
-const POPULAR = ["s25fe", "a57", "ip17promax", "ip18promax", "s26u", "mg25", "a36", "ip16", "tcl60xe", "razr25"];
+const POPULAR = ["s25fe", "a57", "ip17promax", "ip18promax", "s26u", "px10", "px10pro", "mg25", "a36", "ip16", "tcl60xe", "s24fe"];
 
 const state = {
   lang: localStorage.getItem("lang") || "fr",
@@ -103,7 +103,7 @@ const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "
 const catLabel = (c) => CATS[c]?.[state.lang] || c;
 const devName = (id) => (id === "universal" ? t("universalOn") : state.dev.get(id)?.n || id);
 const norm = (s) => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "")
-  .replace(/galaxy|samsung|apple|motorola|\bmoto\b|iphone|tcl|[()]/g, " ")
+  .replace(/galaxy|samsung|apple|google|motorola|\bmoto\b|iphone|tcl|[()]/g, " ")
   .replace(/\bplus\b/g, "+").replace(/\s+/g, "");
 
 // ---------- data ----------

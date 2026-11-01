@@ -70,6 +70,7 @@ def score(claims):
 
 def main():
     devices = json.loads((DATA / "devices.json").read_text())
+    in_scope = {d["id"] for d in devices} | {"universal"}
     audit = {}
     if (DATA / "verdicts.jsonl").exists():
         for line in (DATA / "verdicts.jsonl").read_text().splitlines():
@@ -79,6 +80,8 @@ def main():
     claims, seen = [], set()
     for line in (DATA / "claims.jsonl").read_text().splitlines():
         c = json.loads(line)
+        if c["accessory_for"] not in in_scope or c["used_on"] not in in_scope:
+            continue  # device removed from scope (e.g. foldables)
         a = audit.get(f"{c['sid']}|{c['accessory_for']}|{c['used_on']}|{c['category']}")
         if a and a["label"] == "wrong_verdict" and a.get("corrected_verdict"):
             c["verdict"] = a["corrected_verdict"]

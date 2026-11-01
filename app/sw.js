@@ -1,6 +1,6 @@
 // Offline support: app shell is cache-first; data.json is network-first so updates arrive
 // as soon as the store has signal, with the cached copy as the fallback.
-const CACHE = "fitmap-v1";
+const CACHE = "fitmap-v2";
 const SHELL = ["./", "index.html", "app.js", "style.css", "manifest.webmanifest", "icon.svg", "data.json"];
 
 self.addEventListener("install", (e) => {

@@ -195,15 +195,175 @@
   ]
  },
  {
-  "id": "ipduo",
-  "brand": "Apple",
-  "family": "iPhone",
-  "name": "iPhone Duo (foldable)",
+  "id": "px8",
+  "brand": "Google",
+  "family": "Pixel",
+  "name": "Pixel 8",
+  "year": 2023,
+  "aliases": [
+   "p8",
+   "pixel 8",
+   "pixel8"
+  ]
+ },
+ {
+  "id": "px8pro",
+  "brand": "Google",
+  "family": "Pixel",
+  "name": "Pixel 8 Pro",
+  "year": 2023,
+  "aliases": [
+   "8 pro",
+   "p8 pro",
+   "p8p",
+   "pixel 8 pro"
+  ]
+ },
+ {
+  "id": "px8a",
+  "brand": "Google",
+  "family": "Pixel",
+  "name": "Pixel 8a",
+  "year": 2024,
+  "aliases": [
+   "8a",
+   "pixel 8a"
+  ]
+ },
+ {
+  "id": "px9",
+  "brand": "Google",
+  "family": "Pixel",
+  "name": "Pixel 9",
+  "year": 2024,
+  "aliases": [
+   "p9",
+   "pixel 9",
+   "pixel9"
+  ]
+ },
+ {
+  "id": "px9pro",
+  "brand": "Google",
+  "family": "Pixel",
+  "name": "Pixel 9 Pro",
+  "year": 2024,
+  "aliases": [
+   "9 pro",
+   "p9 pro",
+   "p9p",
+   "pixel 9 pro"
+  ]
+ },
+ {
+  "id": "px9proxl",
+  "brand": "Google",
+  "family": "Pixel",
+  "name": "Pixel 9 Pro XL",
+  "year": 2024,
+  "aliases": [
+   "9 pro xl",
+   "p9 pro xl",
+   "p9pxl",
+   "pixel 9 pro xl"
+  ]
+ },
+ {
+  "id": "px9a",
+  "brand": "Google",
+  "family": "Pixel",
+  "name": "Pixel 9a",
+  "year": 2025,
+  "aliases": [
+   "9a",
+   "pixel 9a"
+  ]
+ },
+ {
+  "id": "px10",
+  "brand": "Google",
+  "family": "Pixel",
+  "name": "Pixel 10",
+  "year": 2025,
+  "aliases": [
+   "p10",
+   "pixel 10",
+   "pixel10"
+  ]
+ },
+ {
+  "id": "px10pro",
+  "brand": "Google",
+  "family": "Pixel",
+  "name": "Pixel 10 Pro",
+  "year": 2025,
+  "aliases": [
+   "10 pro",
+   "p10 pro",
+   "p10p",
+   "pixel 10 pro"
+  ]
+ },
+ {
+  "id": "px10proxl",
+  "brand": "Google",
+  "family": "Pixel",
+  "name": "Pixel 10 Pro XL",
+  "year": 2025,
+  "aliases": [
+   "10 pro xl",
+   "p10 pro xl",
+   "p10pxl",
+   "pixel 10 pro xl"
+  ]
+ },
+ {
+  "id": "px10a",
+  "brand": "Google",
+  "family": "Pixel",
+  "name": "Pixel 10a",
   "year": 2026,
   "aliases": [
-   "iphone duo",
-   "iphone duo (foldable)",
-   "iphone fold"
+   "10a",
+   "pixel 10a"
+  ]
+ },
+ {
+  "id": "px11",
+  "brand": "Google",
+  "family": "Pixel",
+  "name": "Pixel 11",
+  "year": 2026,
+  "aliases": [
+   "p11",
+   "pixel 11",
+   "pixel11"
+  ]
+ },
+ {
+  "id": "px11pro",
+  "brand": "Google",
+  "family": "Pixel",
+  "name": "Pixel 11 Pro",
+  "year": 2026,
+  "aliases": [
+   "11 pro",
+   "p11 pro",
+   "p11p",
+   "pixel 11 pro"
+  ]
+ },
+ {
+  "id": "px11proxl",
+  "brand": "Google",
+  "family": "Pixel",
+  "name": "Pixel 11 Pro XL",
+  "year": 2026,
+  "aliases": [
+   "11 pro xl",
+   "p11 pro xl",
+   "p11pxl",
+   "pixel 11 pro xl"
   ]
  },
  {
@@ -649,160 +809,6 @@
   ]
  },
  {
-  "id": "zflip4",
-  "brand": "Samsung",
-  "family": "Galaxy Z",
-  "name": "Galaxy Z Flip4",
-  "year": 2022,
-  "aliases": [
-   "flip 4",
-   "flip4",
-   "galaxy z flip4",
-   "zflip4"
-  ]
- },
- {
-  "id": "zfold4",
-  "brand": "Samsung",
-  "family": "Galaxy Z",
-  "name": "Galaxy Z Fold4",
-  "year": 2022,
-  "aliases": [
-   "fold 4",
-   "fold4",
-   "galaxy z fold4",
-   "zfold4"
-  ]
- },
- {
-  "id": "zflip5",
-  "brand": "Samsung",
-  "family": "Galaxy Z",
-  "name": "Galaxy Z Flip5",
-  "year": 2023,
-  "aliases": [
-   "flip 5",
-   "flip5",
-   "galaxy z flip5",
-   "zflip5"
-  ]
- },
- {
-  "id": "zfold5",
-  "brand": "Samsung",
-  "family": "Galaxy Z",
-  "name": "Galaxy Z Fold5",
-  "year": 2023,
-  "aliases": [
-   "fold 5",
-   "fold5",
-   "galaxy z fold5",
-   "zfold5"
-  ]
- },
- {
-  "id": "zflip6",
-  "brand": "Samsung",
-  "family": "Galaxy Z",
-  "name": "Galaxy Z Flip6",
-  "year": 2024,
-  "aliases": [
-   "flip 6",
-   "flip6",
-   "galaxy z flip6",
-   "zflip6"
-  ]
- },
- {
-  "id": "zfold6",
-  "brand": "Samsung",
-  "family": "Galaxy Z",
-  "name": "Galaxy Z Fold6",
-  "year": 2024,
-  "aliases": [
-   "fold 6",
-   "fold6",
-   "galaxy z fold6",
-   "zfold6"
-  ]
- },
- {
-  "id": "zflip7",
-  "brand": "Samsung",
-  "family": "Galaxy Z",
-  "name": "Galaxy Z Flip7",
-  "year": 2025,
-  "aliases": [
-   "flip 7",
-   "flip7",
-   "galaxy z flip7",
-   "zflip7"
-  ]
- },
- {
-  "id": "zflip7fe",
-  "brand": "Samsung",
-  "family": "Galaxy Z",
-  "name": "Galaxy Z Flip7 FE",
-  "year": 2025,
-  "aliases": [
-   "flip 7 fe",
-   "flip7 fe",
-   "galaxy z flip7 fe"
-  ]
- },
- {
-  "id": "zfold7",
-  "brand": "Samsung",
-  "family": "Galaxy Z",
-  "name": "Galaxy Z Fold7",
-  "year": 2025,
-  "aliases": [
-   "fold 7",
-   "fold7",
-   "galaxy z fold7",
-   "zfold7"
-  ]
- },
- {
-  "id": "zflip8",
-  "brand": "Samsung",
-  "family": "Galaxy Z",
-  "name": "Galaxy Z Flip8",
-  "year": 2026,
-  "aliases": [
-   "flip 8",
-   "flip8",
-   "galaxy z flip8",
-   "zflip8"
-  ]
- },
- {
-  "id": "zfold8",
-  "brand": "Samsung",
-  "family": "Galaxy Z",
-  "name": "Galaxy Z Fold8",
-  "year": 2026,
-  "aliases": [
-   "fold 8",
-   "fold8",
-   "galaxy z fold8",
-   "zfold8"
-  ]
- },
- {
-  "id": "zfold8u",
-  "brand": "Samsung",
-  "family": "Galaxy Z",
-  "name": "Galaxy Z Fold8 Ultra",
-  "year": 2026,
-  "aliases": [
-   "fold 8 ultra",
-   "fold8 ultra",
-   "galaxy z fold8 ultra"
-  ]
- },
- {
   "id": "mgplay23",
   "brand": "Motorola",
   "family": "moto g",
@@ -1044,139 +1050,6 @@
   "aliases": [
    "edge 2026",
    "motorola edge (2026)"
-  ]
- },
- {
-  "id": "razr23",
-  "brand": "Motorola",
-  "family": "razr",
-  "name": "razr (2023) / razr 40",
-  "year": 2023,
-  "aliases": [
-   "razr (2023) / razr 40",
-   "razr 2023",
-   "razr 40"
-  ]
- },
- {
-  "id": "razrplus23",
-  "brand": "Motorola",
-  "family": "razr",
-  "name": "razr+ (2023) / razr 40 ultra",
-  "year": 2023,
-  "aliases": [
-   "razr 40 ultra",
-   "razr plus 2023",
-   "razr+ (2023) / razr 40 ultra",
-   "razr+ 2023"
-  ]
- },
- {
-  "id": "razr24",
-  "brand": "Motorola",
-  "family": "razr",
-  "name": "razr (2024) / razr 50",
-  "year": 2024,
-  "aliases": [
-   "razr (2024) / razr 50",
-   "razr 2024",
-   "razr 50"
-  ]
- },
- {
-  "id": "razrplus24",
-  "brand": "Motorola",
-  "family": "razr",
-  "name": "razr+ (2024) / razr 50 ultra",
-  "year": 2024,
-  "aliases": [
-   "razr 50 ultra",
-   "razr plus 2024",
-   "razr+ (2024) / razr 50 ultra",
-   "razr+ 2024"
-  ]
- },
- {
-  "id": "razr25",
-  "brand": "Motorola",
-  "family": "razr",
-  "name": "razr (2025) / razr 60",
-  "year": 2025,
-  "aliases": [
-   "razr (2025) / razr 60",
-   "razr 2025",
-   "razr 60"
-  ]
- },
- {
-  "id": "razrplus25",
-  "brand": "Motorola",
-  "family": "razr",
-  "name": "razr+ (2025)",
-  "year": 2025,
-  "aliases": [
-   "razr plus 2025",
-   "razr+ (2025)",
-   "razr+ 2025"
-  ]
- },
- {
-  "id": "razrultra25",
-  "brand": "Motorola",
-  "family": "razr",
-  "name": "razr ultra (2025) / razr 60 ultra",
-  "year": 2025,
-  "aliases": [
-   "razr 60 ultra",
-   "razr ultra (2025) / razr 60 ultra",
-   "razr ultra 2025"
-  ]
- },
- {
-  "id": "razr26",
-  "brand": "Motorola",
-  "family": "razr",
-  "name": "razr (2026) / razr 70",
-  "year": 2026,
-  "aliases": [
-   "razr (2026) / razr 70",
-   "razr 2026",
-   "razr 70"
-  ]
- },
- {
-  "id": "razrplus26",
-  "brand": "Motorola",
-  "family": "razr",
-  "name": "razr+ (2026) / razr 70 plus",
-  "year": 2026,
-  "aliases": [
-   "razr 70 plus",
-   "razr plus 2026",
-   "razr+ (2026) / razr 70 plus",
-   "razr+ 2026"
-  ]
- },
- {
-  "id": "razrultra26",
-  "brand": "Motorola",
-  "family": "razr",
-  "name": "razr ultra (2026) / razr 70 ultra",
-  "year": 2026,
-  "aliases": [
-   "razr 70 ultra",
-   "razr ultra (2026) / razr 70 ultra",
-   "razr ultra 2026"
-  ]
- },
- {
-  "id": "razrfold",
-  "brand": "Motorola",
-  "family": "razr",
-  "name": "razr fold",
-  "year": 2026,
-  "aliases": [
-   "razr fold"
   ]
  },
  {

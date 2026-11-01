@@ -8,8 +8,8 @@ Every result comes from **user reports**: Reddit posts and comments, and Best Bu
 customer reviews. Manufacturer compatibility lists and "fits X / Y" packaging are deliberately **not**
 used as evidence. Each result links to the quotes it's based on.
 
-**Scope:** iPhone 15–18 (all variants), Samsung Galaxy S22–S26 / A-series 2022–2026 / Z Flip & Fold 4–8,
-Motorola moto g / edge / razr 2023–2026, TCL 40 / 50 / 60 / NXTPAPER 70.
+**Scope:** iPhone 15–18 (all variants), Google Pixel 8–11 (all except Fold), Samsung Galaxy S22–S26 / A-series 2022–2026,
+Motorola moto g / edge 2023–2026, TCL 40 / 50 / 60 / NXTPAPER 70. Foldables and flip phones are out of scope.
 **Brand lens:** AXS and TUFF8, plus all brands.
 
 ## Using it

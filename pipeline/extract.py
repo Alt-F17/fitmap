@@ -47,6 +47,7 @@ DEVICE_PATTERNS = [
     r"\brazr\s?(\+|plus|ultra|fold)?\s?\(?(20)?2[3-6]?\)?", r"\brazr\s?[4-7]0\s?(ultra|plus)?\b",
     r"\bedge\s?\+?\s?(plus)?\s?\(?(20)?2[3-6]\)?", r"\bedge\s?[4-6]0\b",
     r"\b(tcl\s?)?[4-7]0\s?(xl|xe|se|le|pro|r|nxtpaper|ultra)\b", r"\bnxtpaper\s?[5-7]0\b",
+    r"\bpixel\s?(8|9|10|11)\s?(pro\s?xl|pro|xl|a)?\b", r"\bp(8|9|10|11)\s?(pro\s?xl|pxl|pro|p|a)\b",
 ]
 DEVICE_RE = re.compile("|".join(f"(?:{p})" for p in DEVICE_PATTERNS), re.I)
 
@@ -112,8 +113,9 @@ def collect():
         add(f"rc-{c['id']}", "reddit_comment",
             f"https://www.reddit.com/comments/{link}/_/{c['id']}/", date_of(c["created_utc"]),
             c.get("score", 0), ctx, c.get("body"))
-    for src in ("bestbuy", "tuff8"):
-        path = DATA / f"reviews_{src}.json"
+    for src, fname in (("bestbuy", "reviews_bestbuy"), ("bestbuy", "reviews_bestbuy_pixel"),
+                       ("tuff8", "reviews_tuff8")):
+        path = DATA / f"{fname}.json"
         if not path.exists():
             continue
         for r in json.loads(path.read_text()):
@@ -238,6 +240,10 @@ def main():
     out_path = DATA / "claims.jsonl"
     done_path = DATA / "snippets_done.txt"
     done = set(done_path.read_text().split()) if done_path.exists() else set()
+    redo = next((a.split("=", 1)[1] for a in sys.argv if a.startswith("--redo=")), None)
+    if redo:  # re-run snippets mentioning a newly added device family
+        pat = re.compile(redo, re.I)
+        done -= {s["sid"] for s in kept if pat.search(s["text"] + " " + s["context"])}
     todo = [s for s in kept if s["sid"] not in done]
     limit = next((int(a.split("=")[1]) for a in sys.argv if a.startswith("--limit=")), None)
     todo = todo[:limit] if limit else todo

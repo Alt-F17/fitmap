@@ -26,7 +26,7 @@ QUERIES = [
     "case razr", "case galaxy z flip", "case galaxy z fold", "camera lens protector",
     "magsafe ring", "magnetic ring adapter", "privacy screen protector",
 ]
-PHONE_WORDS = re.compile(r"iphone|galaxy|moto|razr|tcl|motorola|samsung", re.I)
+PHONE_WORDS = re.compile(r"iphone|galaxy|moto|razr|tcl|motorola|samsung|pixel", re.I)
 ACCESSORY_WORDS = re.compile(r"case|protector|glass|lens|ring|magsafe|qi2|cover|folio|skin|"
                              r"wallet|grip", re.I)
 
@@ -44,9 +44,9 @@ def get_json(url, params):
     return None
 
 
-def search_products():
+def search_products(queries=QUERIES):
     products = {}
-    for q in QUERIES:
+    for q in queries:
         for page in range(1, 11):
             d = get_json(SEARCH, {"query": q, "lang": "en-CA", "pageSize": 100, "page": page})
             time.sleep(PAUSE_S)
@@ -85,9 +85,9 @@ def fetch_reviews(sku):
     return data
 
 
-def main():
+def main(queries=None, out_name="reviews_bestbuy.json"):
     CACHE.mkdir(parents=True, exist_ok=True)
-    products = search_products()
+    products = search_products(queries or QUERIES)
     rows = []
     for i, (sku, p) in enumerate(sorted(products.items())):
         data = fetch_reviews(sku)
@@ -101,9 +101,14 @@ def main():
                          "helpful": r.get("totalPositiveFeedbackCount") or 0})
         if i % 50 == 0:
             print(f"reviews: {i}/{len(products)} products, {len(rows)} reviews", flush=True)
-    (ROOT / "data" / "reviews_bestbuy.json").write_text(json.dumps(rows, ensure_ascii=False))
+    (ROOT / "data" / out_name).write_text(json.dumps(rows, ensure_ascii=False))
     print(f"BESTBUY DONE: {len(rows)} reviews from {len(products)} products", flush=True)
 
 
 if __name__ == "__main__":
-    main()
+    import sys
+    if "--pixel" in sys.argv:
+        main(["case pixel", "screen protector pixel", "camera lens protector pixel",
+              "magsafe case pixel", "tuff8 pixel", "axs pixel"], "reviews_bestbuy_pixel.json")
+    else:
+        main()
